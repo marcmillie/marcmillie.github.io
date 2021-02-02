@@ -1,0 +1,30 @@
+.bg-image{
+    background-image: url("/Users/macbookpro/Desktop/wyncode/c41/fansite/collage photo.jpg");
+    
+}
+
+
+h1{
+    color: red;
+    text-align: center;
+    padding: 3rem;
+}
+
+h2{
+    text-align: center;
+    color: honeydew;
+    text-emphasis-color: black;
+
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img{
+    border: 10px solid rgb(254, 254, 254);
+}
+
+
