@@ -3,7 +3,7 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
 }
 .bg-image{
-    background-image: url("/Users/macbookpro/Desktop/wyncode/c41/fansite/collage photo.jpg");
+    background-image: url("./collage photo.jpg");
     /* background-repeat:  */
 
 }
